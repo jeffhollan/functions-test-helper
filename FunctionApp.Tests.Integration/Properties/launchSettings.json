@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "FunctionApp.Tests.Integration": {
+      "commandName": "Project"
+    }
+  }
+}
